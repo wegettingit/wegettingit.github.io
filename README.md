@@ -66,5 +66,5 @@ Ethical usage only. Commercial reuse requires permission.
 
 ## 🌐 Live Site
 
-Visit: [https://johnE.ai](https://johnE.ai) *(once DNS is fully propagated)*  
+Visit: [https://johnE.ai](https://johnE.ai) 
 Backup: [https://wegettingit.github.io](https://wegettingit.github.io)
