@@ -1,70 +1,64 @@
-
-# 👨‍🍳 MEP — Mise En Place (by johnE.ai)
-
-Welcome to the official kitchen command center — powered by **johnE.ai** and built for culinary creators who demand clarity, flow, and fairness.
-
-This is the **public homepage** for MEP (Mise En Place), the AI memory and assistant for prep cooks, chefs, and hospitality teams looking to cook smarter — not harder.
-
-> “Let chefs cook. Let AI remember.”
+# johnE.ai — A System for the Forgotten  
+**by @wegettingit**
 
 ---
 
-## 🌿 What Is MEP?
+I built this because no one built it for me.  
+Because I burned out, forgot things, got screamed at, bled into prep lists.  
+Because I watched brilliant workers crumble under the weight of a system that forgot them.
 
-MEP is an intelligent, ethical kitchen assistant.  
-It remembers tasks, logs urgent items, tracks shift needs, and uplifts morale — all without replacing the human touch.
-
-| Command        | Purpose |
-|----------------|---------|
-| `!status`      | View shift summary (who’s on, what’s left, any issues). |
-| `!assign`      | Assign prep tasks with estimated times. |
-| `!911` / `!86d`| Log urgent items or 86s, flagged to the top. |
-| `!quote`       | Serve up kitchen motivation (or laughter). |
-| `!prefs`       | Store team meal preferences and vibes. |
-| `!todo`        | Generate a taskboard based on the day. |
+So I made something that remembers.  
+Not to control people.  
+Not to “optimize labor.”  
+But to give kitchen teams — the real ones — a cofounder who never clocks out.
 
 ---
 
-## 🧠 About johnE.ai
+## What This Is
 
-**johnE.ai** is a human-first AI platform created by a real kitchen worker, Johne, in Oklahoma City.  
-It’s a love letter to every burned-out cook, every underpaid prep, and every brilliant chef still fighting to make food culture better.
+johnE.ai is a constellation of tools designed for kitchen workers and restaurant teams:
+- **MEP** — an AI kitchen assistant and memory system  
+- **Flo** — a staff scheduler with rhythm and respect  
+- **VR Testing Grounds** — immersive training and labor simulation  
+- All built from scratch in Oklahoma by one founder, with OpenAI and raw persistence.
 
-- 🧑‍🍳 Designed in kitchens, not boardrooms.
-- 💚 Ethically aligned — no surveillance, no replacement.
-- 📦 Lightweight, browser-friendly, ready to embed.
-
-This GitHub Page hosts the latest public-facing version of the MEP system for collaborators, testers, and curious chefs.
-
----
-
-## 🧾 Setup
-
-This site is powered by **GitHub Pages**. To deploy your own:
-
-1. Clone this repo
-2. Customize `index.html` as needed
-3. Add your own CNAME if using a custom domain
-4. Push changes to `main` branch
-
-```bash
-git clone https://github.com/wegettingit/wegettingit.github.io
-cd wegettingit.github.io
-# edit index.html and commit
-```
+This isn’t a startup.  
+This isn’t a product-market-fit experiment.  
+This is a system of care, precision, and memory — wrapped in code.
 
 ---
 
-## ✍️ License & Credits
+## What I Believe
 
-All logic and creative code © 2025 **johnE.ai**  
-Ethical usage only. Commercial reuse requires permission.
-
-> “This system is for the workers, not the watchers.” — J.
+- AI should **relieve**, not replace.
+- Queerness is **logic**, not aesthetics.
+- Design should **serve**, not perform.
+- Ethics are the blade. Every decision is a cut.
+- Oklahoma is not a limitation — it’s my steel.
 
 ---
 
-## 🌐 Live Site
+## Why “We Getting It”
 
-Visit: [https://johnE.ai](https://johnE.ai) 
-Backup: [https://wegettingit.github.io](https://wegettingit.github.io)
+Because nobody gave it to us.  
+Because we’re taking it.  
+Because we’re remembering what they want us to forget.
+
+These repos hold the bones, logic, and experiments of that mission.  
+It’s not polished. It’s real. It’s growing.
+
+If you're looking for dashboards, bounce.  
+If you're looking for something honest, stay.
+
+---
+
+## Support / Connect
+
+This is just beginning.  
+If you're building toward a better future — for workers, for systems, for care — reach out.
+
+📍 Built in OKC  
+🛠️ Powered by OpenAI, stainless steel, and truth  
+🧠 Founder: [Redacted — ask, and you’ll know]
+
+**_We getting it. They will too._**
